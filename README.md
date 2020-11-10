@@ -34,7 +34,7 @@ Gooey Games is a team of 5 Wesleyan students responsible for this game. The memb
 * Victoria Matthews (Team Leader, Concept Design, Music)
 * Isaac Son (3D Arts & some Engineering)
 * See Woo Lee (Software Engineer, Owner of this Github repo)
-* Mario See (Software Engineer)
+* [Mario See](https://github.com/mariocsee) (Software Engineer)
 * Coby Gesten (Software Engineer)
 
 The game was developed during the four months periods from January 2017 to May 2017.
