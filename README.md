@@ -46,6 +46,6 @@ As a software engineer of the team, I was in charge of animation controller, cha
 私は、チームのエンジニアとして、アニメーションコントローラーの管理、敵キャラーのAIをプログラミング、そしてプレイヤーキャラと環境内のオブジェクトとの相互作用を監視するスクリプトの作成を担当しました。
 
 
-Click here to see the samples of the code I have written. 
-私が作成したソースコードのサンプルのためには、上のリンクをご覧ください。
+__[Click here](https://github.com/Dotolation/BrainStorm/tree/main/SeeWoo_Code_Sample)__ to see the samples of the code I have written.   
+私が作成したソースコードのサンプルのためには、[このリンク](https://github.com/Dotolation/BrainStorm/tree/main/SeeWoo_Code_Sample)をご覧ください。
 
