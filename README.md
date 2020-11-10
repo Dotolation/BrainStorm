@@ -14,9 +14,9 @@ First, prepare two Xbox controllers, since this is a two-player game.
 まず、BrainStormは2人用ゲームですので、Xboxコントローラーを２つ準備してください。  
 （BrainStormはまだキーボードをサポートしていないので、コントローラーが必要です。キーボードの実装に取り組んでいます！
 
-Next, __[click here](https://dotolation.github.io/BrainStorm)__ to play the game on the web browser!  
+Next, __[click here](https://dotolation.github.io/BrainStorm/index.html)__ to play the game on the web browser!  
 
-そして、[ここを](https://dotolation.github.io/BrainStorm)をクリックしたらゲームが始まります！
+そして、[ここを](https://dotolation.github.io/BrainStorm/index.html)をクリックしたらゲームが始まります！
 
 ## Demo Video
 
