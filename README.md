@@ -1,6 +1,7 @@
-# BrainStorm
+# Introducing BrainStorm! (「BrainStorm」の紹介)
 
-_Brainstorm_ is an educational 3D side scroller game that aims to teach young students (elementary school aged) basic neuroscience and brain structure. Explore inside the brain, manipulate the brain structure, and defeat the enemies that are invading our brain!
+_Brainstorm_ is an educational 3D side scroller game that aims to teach young students (elementary school aged) basic neuroscience and brain structure. Explore the human brain, manipulate the brain structure, and defeat the enemies that are invading our brain!
+_Brainstorm_ は、小学生向けの教育用３D横スクロールゲームです。このゲームのテーマは、脳科学であり、基本的な脳の構造についての教育を目的としています。人間の脳の中をを探索し、脳の構造を操作して、脳に侵入している敵を倒しましょう！
 
 This video game was created using Unity 3D engine. In order to host this game on GitHub, this version of game was published for WebGL.
 
